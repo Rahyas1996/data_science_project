@@ -1,5 +1,5 @@
 # data_science_project
-this is all the data science projects
+this is all the data science projects.
 First project is predicting false,the libraries that are used in the project are pandas,numpy,tensorflow,train split,standard scaler and matplotlib.The goal for this analysis is to predict credit card fraud in the transactional data. I will be using tensorflow to build the predictive model, and t-SNE to visualize the dataset in two dimensions at the end of this analysis.
 The sections of this analysis include:
 Exploring the Data
